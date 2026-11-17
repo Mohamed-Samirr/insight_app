@@ -1,4 +1,4 @@
-# Insight (ساعدني)
+# Insight
 
 Insight is a Flutter mobile application that provides AI-assisted analysis and
 reading tools for Arabic and English content. The app uses a dark Material 3
